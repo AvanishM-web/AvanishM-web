@@ -24,5 +24,16 @@
 <br />
 <br />
 
+### Projects:
+[Envo-Go]: https://github.com/AvanishM-Tech/Envo-Go--carbon-footprint-calculator-
+[EI-Dash]: https://github.com/AvanishM-Tech/EI-Dash-Main
+[Divine Magic Foundation]: https://github.com/AvanishM-Tech/Divine-Magic-Foundation-V1
+[Museum Of Candy]: https://github.com/AvanishM-Tech/Museum-of-Candy
+[Scrabble]: https://github.com/AvanishM-Tech/Scrabble
+[Plurality Vote]: https://github.com/AvanishM-Tech/Plurality-Vote
+[Rock-Paper-Scissors]: https://github.com/AvanishM-Tech/Rock-Paper-Scissors
+[Media Queries]: https://github.com/AvanishM-Tech/Media-Queries-Practice
+[Academic Agenda]: https://github.com/AvanishM-Tech/Academic-Agenda
+
 
 

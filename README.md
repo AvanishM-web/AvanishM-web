@@ -1,9 +1,9 @@
 # Hi there, I'm Avanish
 
 
-## I'm a dedicated Student on a journey to learn and explore the fascinating world of code. Passionate about technology and problem-solving!!
+## I'm a dedicated Student on a journey to learn and explore the fascinating world of code. Passionate about sustainable technology!!
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java.
 - 🥅 2024 Goals: Expanding my knowledge with a focus on mastering C.
 - ⚡ Fun fact: I enjoy capturing the beauty of the natural world through my lens. 📷🌳 
 - 🎸 Bonus Fact: often found jamming to the beats of 80s pop music.

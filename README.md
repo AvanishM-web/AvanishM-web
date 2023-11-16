@@ -25,8 +25,8 @@
 <br />
 
 ### Projects:
-[]
-[Envo-Go]: https://github.com/AvanishM-Tech/Envo-Go--carbon-footprint-calculator-
+<br />
+[Envo-Go carbon footprint calculator]: https://github.com/AvanishM-Tech/Envo-Go--carbon-footprint-calculator-
 <br />
 [EI-Dash]: https://github.com/AvanishM-Tech/EI-Dash-Main
 <br />

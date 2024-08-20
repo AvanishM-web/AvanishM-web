@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Java.
 - 🥅 2024 Goals: Expanding my knowledge with a focus on mastering C.
-- ⚡ Fun fact: I enjoy capturing the beauty of the natural world through my lens. 📷🌳 
+- ⚡ Fun fact: I enjoy Photography. 📷🌳 
 - 🎸 Bonus Fact: often found jamming to the beats of 80s pop music.
 
 ### Languages and Tools:
